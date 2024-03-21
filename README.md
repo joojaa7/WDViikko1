@@ -1,2 +1,2 @@
 # WDViikko1
-w
+![Orava](orava.jpg)
