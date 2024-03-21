@@ -1,0 +1,23 @@
+html {
+    font-family:'Franklin Gothic Medium';
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+a:hover{
+    color: black;
+    font-size: 70px;
+}
+
+img {
+    border: 10px solid #000000;
+    border-radius: 25px;
+}
+tr:nth-child(odd){
+    background-color: aqua;
+}
+ul {
+    list-style-type: square;
+}
