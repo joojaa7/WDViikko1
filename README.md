@@ -1,2 +1,2 @@
 # WDViikko1
-![Orava](orava.jpg)
+![Validaatio](Viikko1-validation.png)
